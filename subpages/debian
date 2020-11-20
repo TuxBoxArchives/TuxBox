@@ -1,1 +1,48 @@
-debian
+---
+permalink: /debian.html
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="/ipfs/QmdFuH4RDGVxsPFLxai9tFFRThzsjddGjQVdWRQ5K6TYJD/css/bootstrap.min.css" />
+
+<!-- jQuery -->
+
+</head>
+
+<body>
+
+<div class="container">
+    <h1>From the past, to the present, for the future.</h1>
+    <p>Welcome to TheLinuxArchives!  This is a one-stop place for archived Linux distributions.  Our goal is to preserve them so others may see what the early days were like.  Enjoy your stay!</p>
+
+    <h3>Known archives:</h3>
+    <table class="table table-striped">
+        <thead>
+            <th>Title</th>
+            <th>Frontend</th>
+            <th>Hash</th>
+            <th>Github Issue</th>
+            <th>Total Size</th>
+
+        </thead>
+        <tbody>
+        <tr>
+            <td>Sub Folder For Debian</td>
+            <td>IPFS</td>
+            <td>?</td>
+            <td>?</td>
+            <td>N/A</td>
+
+        </tbody>
+
+    </table>
+</div>
+
+</body>
+<html>
