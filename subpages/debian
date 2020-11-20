@@ -18,9 +18,10 @@ permalink: /debian.html
 <body>
 
 <div class="container">
-    <h1>From the past, to the present, for the future.</h1>
-    <p>Welcome to TheLinuxArchives!  This is a one-stop place for archived Linux distributions.  Our goal is to preserve them so others may see what the early days were like.  Enjoy your stay!</p>
-
+    <h1>You're currently in the folder for Debian and Debian-based distributions.</h1>
+    <p>Or for your exact location, /Debian.</p>
+    <p>If you want to download Debian, go to a folder with the year that version was released in.</p>
+    <p>If you want to download a distribution based on Debian, enter the Derived folder.</p>
     <h3>Known archives:</h3>
     <table class="table table-striped">
         <thead>
